@@ -2,7 +2,7 @@
   "name": "@hapi/hapi",
   "description": "HTTP Server framework",
   "homepage": "https://hapi.dev",
-  "version": "20.0.0",
+  "version": "20.0.1",
   "repository": "git://github.com/hapijs/hapi",
   "main": "lib/index.js",
   "engines": {
@@ -41,10 +41,10 @@
     "@hapi/code": "8.x.x",
     "@hapi/inert": "^6.0.2",
     "@hapi/joi-legacy-test": "npm:@hapi/joi@15.x.x",
-    "@hapi/lab": "23.x.x",
+    "@hapi/lab": "24.x.x",
     "@hapi/wreck": "17.x.x",
     "@hapi/vision": "^6.0.1",
-    "handlebars": "4.x.x",
+    "handlebars": "^4.5.3",
     "joi": "17.x.x"
   },
   "scripts": {
